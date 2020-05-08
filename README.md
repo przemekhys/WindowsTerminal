@@ -1,0 +1,2 @@
+# WindowsTerminal
+My config
